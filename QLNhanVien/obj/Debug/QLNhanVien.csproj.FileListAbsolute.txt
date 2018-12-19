@@ -1,0 +1,10 @@
+D:\visual\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csprojAssemblyReference.cache
+D:\visual\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.Form1.resources
+D:\visual\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.Properties.Resources.resources
+D:\visual\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.GenerateResource.cache
+D:\visual\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.CoreCompileInputs.cache
+D:\visual\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.exe.config
+D:\visual\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.exe
+D:\visual\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.pdb
+D:\visual\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.exe
+D:\visual\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.pdb
